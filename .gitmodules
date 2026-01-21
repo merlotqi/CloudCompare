@@ -42,3 +42,6 @@
 [submodule "plugins/core/IO/qPhotoscanIO/extern/quazip"]
 	path = plugins/core/IO/qPhotoscanIO/extern/quazip
 	url = https://github.com/stachenov/quazip.git
+[submodule "plugins/core/IO/qPotreeIO"]
+	path = plugins/core/IO/qPotreeIO
+	url = https://github.com/merlotqi/qPotreeIO.git
